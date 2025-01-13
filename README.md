@@ -23,7 +23,7 @@ The **ft_printf** project is a re-implementation of the C standard library funct
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ft_printf.git
+   git clone clone git@github.com:d2iv3r/ft_printf.git
    cd ft_printf
 
 ## Usage
